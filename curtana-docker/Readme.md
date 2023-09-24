@@ -1,5 +1,3 @@
-CLone repo in $HOME/droidian/kernel/vendor/device directory
+Copy paste below command 
 
-git clone --depth 1 https://github.com/HarshitBhatt043/curtana.git
-
-Run compile.sh
+curl -sL https://raw.githubusercontent.com/HarshitBhatt043/curtana/droidian/curtana-docker/compile.sh | bash
