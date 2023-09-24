@@ -1,4 +1,4 @@
-CLone repo in home directory
+CLone repo in $HOME/droidian/kernel/vendor/device directory
 
 git clone --depth 1 https://github.com/HarshitBhatt043/curtana.git
 
